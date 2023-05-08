@@ -7,4 +7,4 @@ Data Analyst with skills in Python, SQL, Excel, Tableau and Machine Learning
 - 💬 Ask me about how I started my Data Analytics journey.
 - 💯 My goal for 2023 is to land a job and contribute to a team using my new learned skills.
 - ⚡ A fun fact about me is that I am the oldest of 5 with 4 younger sisters.
-- 💬 My favorit quote is, “I learned that courage was not the absence of fear, but the triumph over it. " - Nelson Mandela
+- 💬 My favorite quote is, “I learned that courage was not the absence of fear, but the triumph over it. " - Nelson Mandela
